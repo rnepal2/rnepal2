@@ -11,9 +11,6 @@
 <a target="_blank" href="https://www.kaggle.com/rnepal2">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />
 </a>
-<a target="_blank" href="https://twitter.com/ccRabindra">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 </br>
 
 ----
