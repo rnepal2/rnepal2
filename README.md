@@ -20,4 +20,4 @@
 
 ----
 
-Below are some of my projects. I welcome your feedback/question.
+Below are some of my projects. I welcome any feedback/question.
