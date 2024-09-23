@@ -16,7 +16,7 @@
 ----
 
 - 🔭 I’m a Data Scientist and a [Physics Ph.D.](https://scholar.google.com/citations?user=Z8tzkKEAAAAJ&hl=en)
-- 🌱 I’m always learning to learn from data, and also open for collaborations. 
+- 🌱 Always learning to learn from data
 
 ----
 
